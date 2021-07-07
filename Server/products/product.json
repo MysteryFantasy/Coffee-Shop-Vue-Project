@@ -1,0 +1,8 @@
+[
+    { "title": "Americano", "cost": "30", "article": "001", "image": "americano.png"},
+    { "title": "Flat White", "cost": "55", "article": "002", "image": "flat white.png"},
+    { "title": "Cappuccino", "cost": "40", "article": "003", "image": "cappuccino.png"}, 
+    { "title": "Latte", "cost": "45", "article": "004", "image": "latte.png"},
+    { "title": "Frappuccino", "cost": "70", "article": "005", "image": "frappuccino.png"},
+    { "title": "Espresso", "cost": "25", "article": "006", "image": "espresso.png"}
+]
